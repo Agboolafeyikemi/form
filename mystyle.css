@@ -9,7 +9,7 @@ body {
   text-align: center;
   background-color:  #344a72;
   line-height: 1.8;
-  font-size: 18px;
+  font-size: 17px;
 }
 #container {
   max-width: 361px;
@@ -55,7 +55,7 @@ label {
 }
 .bottom-text {
     line-height: 1.4em;
-    padding: 10px;
+    padding: 11px;
     width: 100%;
     text-align: center;
     margin: auto;
@@ -68,5 +68,5 @@ footer a{
 }
 footer {
     color: white;
-    margin-top: 16px;
+    margin-top: 15px;
 }
